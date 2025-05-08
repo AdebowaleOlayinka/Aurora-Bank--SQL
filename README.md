@@ -1,5 +1,6 @@
-![1000191964](https://github.com/user-attachments/assets/df7ba7ef-a56d-4ef1-824b-6afeac13de3b)
-# Aurora Bank
+# Aurora Bank Analysis with PowerBI
+![1000191964](https://github.com/user-attachments/assets/fe9e2d3d-9fc0-4e27-a5c3-79c35025b5f9)
+
 
 ![Aurora Dashboard 1](https://github.com/user-attachments/assets/2d3295d7-82d7-409e-9545-10953893500e)
 
