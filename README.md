@@ -1,3 +1,4 @@
+![1000191964](https://github.com/user-attachments/assets/df7ba7ef-a56d-4ef1-824b-6afeac13de3b)
 # Aurora Bank
 
 ![Aurora Dashboard 1](https://github.com/user-attachments/assets/2d3295d7-82d7-409e-9545-10953893500e)
