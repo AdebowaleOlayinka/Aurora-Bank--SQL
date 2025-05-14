@@ -2,8 +2,9 @@
 ![1000191964](https://github.com/user-attachments/assets/fe9e2d3d-9fc0-4e27-a5c3-79c35025b5f9)
 
 
-![Aurora Dashboard 1](https://github.com/user-attachments/assets/2d3295d7-82d7-409e-9545-10953893500e)
+![Aurora dashboard 1](https://github.com/user-attachments/assets/1cdf714b-2847-4fdc-bd1f-7a68a20461cd)
 
-![Aurora Dasboard 2](https://github.com/user-attachments/assets/a4e4f139-ac63-43a3-9d0d-8b04332af5cf)
+![Dashboard 2](https://github.com/user-attachments/assets/7e44f647-ce1b-43c3-929d-21b46d311cf3)
 
-![Aurora Dasboard 3](https://github.com/user-attachments/assets/326c5594-e5c2-4be6-b65c-97d4db9b2a53)
+
+![Dashboard 3](https://github.com/user-attachments/assets/1ffefb81-b79b-4b85-b818-cd7e33d901ce)
