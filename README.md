@@ -1,4 +1,4 @@
-# Aurora Bank Analysis with PowerBI
+# Aurora Bank Analysis 
 ![1000191964](https://github.com/user-attachments/assets/fe9e2d3d-9fc0-4e27-a5c3-79c35025b5f9)
 
 
