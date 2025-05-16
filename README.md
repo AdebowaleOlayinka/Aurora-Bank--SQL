@@ -41,6 +41,8 @@ The primary ojectives of the project is to:
 - Customer mostly spend money on Money Transfer and Grocery store and supermarket
 - Mastercard has the highest transaction volume (18k) in 2024
 
+ Explore the interactive dashboard here
+ https://app.powerbi.com/view?r=eyJrIjoiODU5ODhhZTctMDc3ZS00OGZjLWE5ZmEtYmM4YTMxNDk1NWY5IiwidCI6IjUzYjJmMWM0LWNiNjItNDc2MC04OTgyLWU4NGJmMDMwNmM4MiJ9
 
 ## Recommendations
 - Tailor loan offering based on credit score and risk level of customers
