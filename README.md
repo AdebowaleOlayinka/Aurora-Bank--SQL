@@ -3,6 +3,10 @@
 ## Table of Content
 - [Overview](#overview)
 - [Project Objectives](#project-objectives)
+- [Dashboard](#dashboard)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+
 ## Overview 
 This PowerBI dashboard project provide a comprehensive analysis of Aurora Bank customer base, transaction behaviour and card operations. Designed for actionable insight to help visualize trends to make decisions.
 ## Project Objectives
@@ -20,5 +24,25 @@ The primary ojectives of the project is to:
 
 ## Key Findings
 1. Customer Demographics and Financial Profile
+- A total of 2000 customers (1,016 Females and 984 males)
+- The age range of 46-64 are where the majority of customer belongs to
+- A total of $127.42M debt as female has the highest debt
+- Over 70% of customers are low income earners
+- 81 customers have poor credit score <579 and 166 have excellent credit score >800
+
+2. Card Distribution
+- A total of 9,238 card was issued to customers
+- 52% of the customer use mastercard and majority make use of debit card
+- 89% of card has EMV chips ensuring higher security during transactions
+
+3. Transaction Analysis
+- The most frequent transaction error is insufficient balance
+- The highest number of transaction was recoreded in july 2023
+- Customer mostly spend money on Money Transfer and Grocery store and supermarket
+- Mastercard has the highest transaction volume (18k) in 2024
 
 
+## Recommendations
+- Tailor loan offering based on credit score and risk level of customers
+- Enhance fraud detection measures to monitor transaction of card without EMV chips
+- Educate customers on security advantages of EMV technology through emails
