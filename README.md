@@ -23,19 +23,19 @@ The primary ojectives of the project is to:
 ![Screenshot 2025-05-16 133940](https://github.com/user-attachments/assets/ca1e23ac-a254-464a-a504-029880543eed)
 
 ## Key Findings
-1.Customer Demographics and Financial Profile
+1.**Customer Demographics and Financial Profile**
 - A total of 2000 customers (1,016 Females and 984 males)
 - The age range of 46-64 are where the majority of customer belongs to
 - A total of $127.42M debt as female has the highest debt
 - Over 70% of customers are low income earners
 - 81 customers have poor credit score <579 and 166 have excellent credit score >800
 
-2. Card Distribution
+2. **Card Distribution**
 - A total of 9,238 card was issued to customers
 - 52% of the customer use mastercard and majority make use of debit card
 - 89% of card has EMV chips ensuring higher security during transactions
 
-3. Transaction Analysis
+3. **Transaction Analysis**
 - The most frequent transaction error is insufficient balance
 - The highest number of transaction was recoreded in july 2023
 - Customer mostly spend money on Money Transfer and Grocery store and supermarket
