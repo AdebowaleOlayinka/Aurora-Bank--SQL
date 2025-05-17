@@ -23,7 +23,7 @@ The primary ojectives of the project is to:
 ![Screenshot 2025-05-16 133940](https://github.com/user-attachments/assets/ca1e23ac-a254-464a-a504-029880543eed)
 
 ## Key Findings
-1. Customer Demographics and Financial Profile
+1.Customer Demographics and Financial Profile
 - A total of 2000 customers (1,016 Females and 984 males)
 - The age range of 46-64 are where the majority of customer belongs to
 - A total of $127.42M debt as female has the highest debt
