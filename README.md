@@ -48,3 +48,6 @@ The primary ojectives of the project is to:
 - Tailor loan offering based on credit score and risk level of customers
 - Enhance fraud detection measures to monitor transaction of card without EMV chips
 - Educate customers on security advantages of EMV technology through emails
+  ```
+  sql
+select
