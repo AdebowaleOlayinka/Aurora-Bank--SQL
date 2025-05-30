@@ -77,7 +77,7 @@ end
 - Customer
 1. What is the Total number of customers and thier gender distribution
 2. What is the total debt by customer
-3. What is the Total debt based on gender and identify to the gender with the highest debt
+3. What is the Total debt based on gender and identify the gender with the highest debt
 4. How many customer fall into each credit score rating category 
 5. How many customers are classified under each risk level based on thier credit score
 
@@ -106,7 +106,7 @@ end
 
 3. **Transaction Analysis**
 - The most frequent transaction error is insufficient balance
-- The highest number of transaction was recoreded in july 2023
+- The highest number of transaction was recorded in july 2023
 - Mastercard has the highest transaction volume  in 2022
 
 ## Recommendations
