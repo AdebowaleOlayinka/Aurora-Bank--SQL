@@ -15,6 +15,22 @@ The primary ojectives of the project is to:
 - Monitor spending trends, transaction errors and customer at risk based on credit score and debt
 - Assess card owned by customer and usage
 
+## Data Cleaning 
+- Rename table and columns
+```
+- Rename table name-
+exec sp_rename '[dbo].[user$]','customer';
+exec sp_rename '[dbo].[Transaction Data]','customertransaction';
+exec sp_rename '[dbo].[Card]','Card_data';
+ exec sp_rename '[dbo].[mcc_codes$]','mcc'
+
+- Rename column name
+    exec sp_rename '[dbo].[user$].id','Client id';
+	exec sp_rename 'customertransaction.client_id','Client id';
+	exec sp_rename'card_data.date','card_date'
+exec sp_rename 'mcc.mcc_id','merchant_id'
+```
+
  ## Dashboard 
 
 - ![dashboard 1](https://github.com/user-attachments/assets/c6ff2281-68c7-491b-9c09-4b084984b337)
