@@ -73,6 +73,13 @@ when credit_score between 670 and 739 then 'Middle Risk'
 when credit_score <670 then 'High Risk'
 end
 ```
+## Exploratory Data Analysis 
+- Customer
+1. What is the Total number of customers and thier gender distribution
+2. What is the total debt by customer
+3. What is the Total debt based on gender and identity to the gender with the highest debt
+4. What is the total number of customers by their credit score
+5. How many customers are at low and High risk level
  ## Dashboard 
 
 - ![dashboard 1](https://github.com/user-attachments/assets/c6ff2281-68c7-491b-9c09-4b084984b337)
