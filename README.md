@@ -3,6 +3,7 @@
 ## Table of Content
 - [Overview](#overview)
 - [Project Objectives](#project-objectives)
+- [Data Cleaning](#data-cleaning)
 - [Dashboard](#dashboard)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
@@ -30,7 +31,48 @@ exec sp_rename '[dbo].[Card]','Card_data';
 	exec sp_rename'card_data.date','card_date'
 exec sp_rename 'mcc.mcc_id','merchant_id'
 ```
-
+- Add New Column Retirement status 
+```
+-- Create Retirement status column
+alter table customer
+add retirement_status varchar(50)
+update customer
+set Retirement_Status =
+case
+when current_age > retirement_age then'Retired'
+else 'Not Retired'
+end
+```
+- Add New Column Credit score rating
+```
+---- create credit score rating-
+alter table customer
+add [Credit score rating]varchar(100)
+update customer
+set[Credit score rating]=
+case
+when credit_score between 800 and 850 then 'Excellent'
+when credit_score between 740 and 799 then 'Very Good'
+when credit_score between 670 and 739 then 'Good'
+when credit_score between 580 and 699 then 'Fair'
+when credit_score between 300 and 579 then 'poor'
+else 'unknown'
+end
+```
+- Add New column Risk Levels
+```
+--- Customer risk column
+alter table customer
+add [Risk level] varchar(100)
+update customer
+set [Risk level] =
+case 
+when credit_score >=740 
+then 'Low Risk'
+when credit_score between 670 and 739 then 'Middle Risk'
+when credit_score <670 then 'High Risk'
+end
+```
  ## Dashboard 
 
 - ![dashboard 1](https://github.com/user-attachments/assets/c6ff2281-68c7-491b-9c09-4b084984b337)
