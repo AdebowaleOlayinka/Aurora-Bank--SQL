@@ -4,7 +4,7 @@
 - [Overview](#overview)
 - [Project Objectives](#project-objectives)
 - [Data Cleaning](#data-cleaning)
-- [Dashboard](#dashboard)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 
@@ -78,36 +78,36 @@ end
 1. What is the Total number of customers and thier gender distribution
 2. What is the total debt by customer
 3. What is the Total debt based on gender and identity to the gender with the highest debt
-4. What is the total number of customers by their credit score
-5. How many customers are at low and High risk level
- ## Dashboard 
+4. How many customer fall into each credit score rating category 
+5. How many customers are classified under each risk level based on thier credit score
 
-- ![dashboard 1](https://github.com/user-attachments/assets/c6ff2281-68c7-491b-9c09-4b084984b337)
+- Transactions
+1. What is the total transaction amount across all customer
+2. What are the most common transactions error during transactions
+3. Which month and year has the highest transaction amount
+4. which card brand recorded the highest transaction volume
 
--  ![Screenshot 2025-05-16 133547](https://github.com/user-attachments/assets/5bac681f-51e5-44e8-be9f-a8e478db6fce)
-![Screenshot 2025-05-16 133940](https://github.com/user-attachments/assets/ca1e23ac-a254-464a-a504-029880543eed)
+- Card Analysis
+1. What is the total number of card issued to customer by card type and brand between 2020 and 2024
+2. How many card has EMV Chips
+3. what is the total number of customers having different card brands
 
-## Key Findings
+ ## Key Findings
 1.**Customer Demographics and Financial Profile**
 - A total of 2000 customers (1,016 Females and 984 males)
-- The age range of 46-64 are where the majority of customer belongs to
 - A total of $127.42M debt as female has the highest debt
-- Over 70% of customers are low income earners
 - 81 customers have poor credit score <579 and 166 have excellent credit score >800
+- A total of 640 customer at low risk and 429 are high risk based on their credit score rating 
 
 2. **Card Distribution**
-- A total of 9,238 card was issued to customers
-- 52% of the customer use mastercard and majority make use of debit card
-- 89% of card has EMV chips ensuring higher security during transactions
+- 7,566 card was issued to customers between 2020 and 2024
+- 3,209(52%)of the customer use mastercard and majority make use of debit card
+- 5,500(89%) of card has EMV chips ensuring higher security during transactions
 
 3. **Transaction Analysis**
 - The most frequent transaction error is insufficient balance
 - The highest number of transaction was recoreded in july 2023
-- Customer mostly spend money on Money Transfer and Grocery store and supermarket
-- Mastercard has the highest transaction volume (18k) in 2024
-
- Explore the interactive dashboard here
- https://app.powerbi.com/view?r=eyJrIjoiODU5ODhhZTctMDc3ZS00OGZjLWE5ZmEtYmM4YTMxNDk1NWY5IiwidCI6IjUzYjJmMWM0LWNiNjItNDc2MC04OTgyLWU4NGJmMDMwNmM4MiJ9
+- Mastercard has the highest transaction volume  in 2022
 
 ## Recommendations
 - Tailor loan offering based on credit score and risk level of customers
