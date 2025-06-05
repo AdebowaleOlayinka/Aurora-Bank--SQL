@@ -85,7 +85,7 @@ end
 1. What is the total transaction amount across all customer
 2. What are the most common transactions error during transactions
 3. Which month and year has the highest transaction amount
-4. which card brand recorded the highest transaction volume
+4. which card brand recorded the highest transaction volume in 2024
 
 - Card Analysis
 1. What is the total number of card issued to customer by card type and brand between 2020 and 2024
