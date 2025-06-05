@@ -107,7 +107,7 @@ end
 3. **Transaction Analysis**
 - The most frequent transaction error is insufficient balance
 - The highest number of transaction was recorded in july 2023
-- Mastercard has the highest transaction volume  in 2022
+- Mastercard has the highest transaction volume  in 2024
 
 ## Recommendations
 - Tailor loan offering based on credit score and risk level of customers
