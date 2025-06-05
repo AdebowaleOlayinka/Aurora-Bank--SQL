@@ -9,7 +9,7 @@
 - [Recommendations](#recommendations)
 
 ## Overview 
-This PowerBI dashboard project provide a comprehensive analysis of Aurora Bank customer base, transaction behaviour and card operations. Designed for actionable insight to help visualize trends to make decisions.
+This project provide a comprehensive analysis of Aurora Bank customer base, transaction behaviour and card operations. Analyzed using Sql queries for actionable insight to help to make decisions.
 ## Project Objectives
 The primary ojectives of the project is to:
 - Understand customer demographics and financial profile
