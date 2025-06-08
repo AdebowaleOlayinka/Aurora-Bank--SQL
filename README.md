@@ -4,7 +4,7 @@
 - [Overview](#overview)
 - [Project Objectives](#project-objectives)
 - [Data Cleaning](#data-cleaning)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Key Questions](#key-questions)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 
@@ -73,7 +73,7 @@ when credit_score between 670 and 739 then 'Middle Risk'
 when credit_score <670 then 'High Risk'
 end
 ```
-## Exploratory Data Analysis 
+## Key Questions 
 - Customer
 1. What is the Total number of customers and thier gender distribution
 2. What is the total debt by customer
